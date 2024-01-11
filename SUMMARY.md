@@ -9,6 +9,7 @@
   * [シェル](linux/sheru.md)
   * [コマンド](linux/komando.md)
 * [AWS](aws/README.md)
+  * [S3](aws/s3.md)
   * [VPC](aws/vpc.md)
 * [Docker](docker/README.md)
   * [MySQL](docker/mysql.md)
