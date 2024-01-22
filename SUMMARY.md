@@ -18,3 +18,5 @@
   * [MySQL](docker/mysql.md)
 * [PHP](php/README.md)
   * [Laravel](php/laravel.md)
+* [HTML](html.md)
+* [CSS](css.md)
