@@ -52,7 +52,6 @@ CSS
   width: 30%;
   height: 100px;
   background: green;
-  /* 水平・垂直方向の中央揃え */
   position: absolute;
   top: 40px;
 }
