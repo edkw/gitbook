@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Java](README.md)
-* [JavaScript](javascript.md)
+* [JavaScript](javascript/README.md)
+  * [React](javascript/react.md)
 * [MS-Access](ms-access.md)
 * [VB.net](vb.net.md)
 * [SQLServer](sqlserver.md)
