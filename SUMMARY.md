@@ -18,6 +18,7 @@
   * [CentOS](docker/centos.md)
   * [MySQL](docker/mysql.md)
 * [PHP](php/README.md)
+  * [日付計算](php/ri-fu-ji-suan.md)
   * [Laravel](php/laravel.md)
 * [HTML](html.md)
 * [CSS](css.md)
